@@ -1,0 +1,2 @@
+str1=("a","b","c")
+print(tuple(str1))
