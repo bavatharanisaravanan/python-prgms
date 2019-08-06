@@ -1,2 +1,4 @@
 tup1=(1,2,3,4)
 print(tup1[0])
+1up1=(66,67,98)
+print(tup1)
