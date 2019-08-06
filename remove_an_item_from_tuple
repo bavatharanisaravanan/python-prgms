@@ -1,0 +1,7 @@
+n=input("enter the element to be removed")
+tup1=("w","r","4")
+print(tup1)
+list1=list(tup1)
+list1.remove(n)
+tup1=tuple(list1)
+print(tup1)
