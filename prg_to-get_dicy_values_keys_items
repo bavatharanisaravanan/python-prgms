@@ -1,0 +1,4 @@
+dict={"red":3,"blue":5}
+print(dict.keys())
+print(dict.values())
+print(dict.items())
