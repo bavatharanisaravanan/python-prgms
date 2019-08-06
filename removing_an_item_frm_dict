@@ -1,0 +1,6 @@
+dict={"w":4,"e":5}
+n=input("enter the key to be deleted:")
+print(dict)
+if n in dict:
+    del dict[n]
+print(dict)    
